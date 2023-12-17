@@ -1,12 +1,12 @@
 
 ### Ola! Eu sou Denis Farias
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-carlos-farias&show_icons=true&theme=dark)
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Carlos-Farias&show_icons=true&theme=dark)
 
 
 ## Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-carlos-farias&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis-carlos-farias&hide_progress=true&theme=dark)
 
 <div style="display: inline_block">
 <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
