@@ -1,7 +1,7 @@
 
 ### Ola! Eu sou Denis Farias
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Carlos-Farias&show_icons=true&theme=dark)
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-carlos-Farias&show_icons=true&theme=dark)
 
 
 ## Tecnologias
